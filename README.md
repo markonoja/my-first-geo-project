@@ -47,3 +47,10 @@ text
 - Health facilities: [Healthsites.io](https://healthsites.io/)
 - Population data: [WorldPop](https://www.worldpop.org/)
 - Administrative boundaries: [GADM](https://gadm.org/)
+
+- ## Getting Started
+
+### 1. Clone this repository
+```bash
+git clone https://github.com/YOUR-USERNAME/my-first-geo-project.git
+cd my-first-geo-project
