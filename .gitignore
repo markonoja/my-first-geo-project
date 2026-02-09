@@ -1,0 +1,67 @@
+```gitignore
+# .gitignore for Python/Geospatial Project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+.ipynb
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Geospatial Data Files
+data/raw/
+data/processed/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.tif
+*.tiff
+*.gpkg
+*.geojson
+*.kml
+*.kmz
+
+# Large files
+*.zip
+*.tar.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output directories
+figures/
+reports/
+exports/
