@@ -1,2 +1,2 @@
 # my-first-geo-project
-the very first project created on github
+"My first geospatial analysis project using Python"
